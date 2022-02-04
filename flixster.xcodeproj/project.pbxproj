@@ -169,7 +169,6 @@
 				2F3C9D0292540756CB50EF21 /* Pods-flixsterTests.debug.xcconfig */,
 				7E09C9F8A0EC8E4228FCFA00 /* Pods-flixsterTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
